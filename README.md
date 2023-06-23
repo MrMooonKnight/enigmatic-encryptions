@@ -7,8 +7,12 @@ While learning C++ in university, I started messing with ASCII of strings and en
 
 ## 🗝 Version List 
 - [Encryption_v1](https://github.com/mrblackhearts/enigmatic-encryptions/tree/main/Encryption_v1) Basic ASCII Manipulation
-- [Encryption_v2](https://github.com/mrblackhearts/enigmatic-encryptions/tree/main/Encryption_v2) 
+- [Encryption_v2](https://github.com/mrblackhearts/enigmatic-encryptions/tree/main/Encryption_v2) Random Key Generation
 - [Encryption_v3](https://github.com/mrblackhearts/enigmatic-encryptions/tree/main/Encryption_v3) 
+    ---->[Encryption_v3.0]
+    ---->[Encryption_v3.1]
+    ---->[Encryption_v3.2]
+    ---->[Encryption_v3.3]
 - [Encryption_v4](https://github.com/mrblackhearts/enigmatic-encryptions/tree/main/Encryption_v4) 
 - [Encryption_v5](https://github.com/mrblackhearts/enigmatic-encryptions/tree/main/Encryption_v5) 
 
