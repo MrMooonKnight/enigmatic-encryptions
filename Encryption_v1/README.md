@@ -1,4 +1,4 @@
-# v1 10 Letters Encryption: Random ASCII Manipulation
+# v1 10 Letters Encryption: Basic ASCII Manipulation
 ## Concepts Used
 - iostream.
 - Dubtracting/adding ascii of characters.
