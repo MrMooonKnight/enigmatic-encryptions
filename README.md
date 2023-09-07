@@ -16,7 +16,7 @@ While learning C++ in university, I started messing with ASCII of strings and en
   - [Encryption_v3.3](https://github.com/mrblackhearts/enigmatic-encryptions/tree/main/Encryption_v3/Encryption_v3.3) Will Not Be Uploaded Due To Privacy Reasons
 - [Encryption_v4](https://github.com/mrblackhearts/enigmatic-encryptions/tree/main/Encryption_v4) Will Not Be Uploaded Due To Privacy Reasons
 - [Encryption_v5](https://github.com/mrblackhearts/enigmatic-encryptions/tree/main/Encryption_v5) Will Not Be Uploaded Due To Privacy Reasons
-- [Morse Nerd] (https://github.com/mrblackhearts/enigmatic-encryptions/tree/main/Morse_Nerd) A morse code encoder and decoder that I made, I was bored :P
+- [Morse Nerd] (https://github.com/mrblackhearts/enigmatic-encryptions/tree/main/MorseNerd) A morse code encoder and decoder that I made, I was bored :P
 - [Playfair Cipher](https://github.com/mrblackhearts/enigmatic-encryptions/tree/main/Playfair) Playfair Cipher Encoder
 
 ## ⚙ Programming Languages
