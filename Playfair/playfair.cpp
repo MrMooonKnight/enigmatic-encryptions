@@ -221,6 +221,6 @@ int main() {
 
 	playfair();
 
-	disclaimer("Copyright © https://github.com/mrblackhearts");
+	disclaimer("Copyright © https://github.com/MrMooonKnight");
 
 	return 0;}

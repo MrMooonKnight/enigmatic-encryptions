@@ -171,7 +171,7 @@ int main()
 	cout << endl;
 
 
-	disclaimer("Copyright © https://github.com/mrblackhearts");
+	disclaimer("Copyright © https://github.com/MrMooonKnight");
 
 
 	return 0;
